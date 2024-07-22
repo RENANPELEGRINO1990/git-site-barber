@@ -1,1 +1,1 @@
-# git-site-barber
+# git-site-barber-shop
