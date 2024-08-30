@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Curso HTML Essencial</title>
+      <meta charset="utf-8">
+      
+      <style>
+            .clear-right{
+                  clear: right;
+                  
+            }
+
+
+            figure{
+                
+                  <style>float:left;
+                  margin-right:15px;
+                  border:3px solid #999;
+                  margin-bottom: 10px;
+                  padding:3px;
+
+            }
+                    
+            
+            
+
+      
+            
+
+            figcaption{
+                  font-family: sans-serif;
+                  font size: 11pix;
+                  background: #ddd;
+                  padding: 3px;
+            }
+
+           
+           
+            figure{...}
+
+            figcaption{...}
+  
+      
+      </style>
+
+
+</head>
+
+<body>
+      <h1>PATO COM LARANJA</h1>
+
+      <h2>Modo de Preparo</h2>
+
+<figure>    
+
+      <img src="https://s2-receitas.glbimg.com/rsDmLmpWgFsaeU_Gsh9ZYgccuzs=/0x0:960x540/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2013/08/04/17_55_28_168_pato_com_laranja.jpg"   width="190"  height="190"
+      title="Foto do Pato com Laranja"
+      alt="Foto do Pato com Laranja" 
+      class="img-prato" >
+      
+      <figcaption>
+             Pato com Laranja(Foto: Bernardo Alves)
+      </figcaption>
+
+</figure>
+
+
+      Tempere o pato com o alho, sal pimenta, suco de limão, o vinho e deixe descansar 6 horas <br>
+      Retire o pato do tempero e escorra bem <br>
+      Unte com a manteiga <br>
+      Coloque o pato numa assadeira com o tempero <br>
+      Leve ao forno
+      Depois de 20 minutos comece a regar com o suco de laranja <br>
+      Deixe mais 30 minutos
+      Quando o pato estiver assado, retire do forno,coloque numa travessa regue com o molho que ficou na assadeira <br>
+      Decore com gomos de laranja e sirva.
+
+      <h3 class ="clear-right">Segredo do Chef</h3>
+      <p>
+            Pincele todo o pato com o óleo e tempere com sal e pimenta do reino a gosto <br>
+            Em uma panela um pouco de óleo e sele todos os lados do pato <br>
+            Retire o pato e o óleo da penal e coloque a água da fervura da laranja com açúcar na panela <br> 
+            Adicione vinagre e mexa até engrossar.
+      </p>
+
+      <p><a href="https://receitas.globo.com/tipos-de-prato/aves/pato-com-laranja-51febfbf4d38854076000049.ghtml" target="_blank">Receita do site Globo.</a>
+      
+
+
+
+      <h1 style="clear:left">Ingredientes</h1>
+
+      <ul>
+          <li>Pato Limpo</li>
+          <li>500 Gr de batatas pequenas</li>
+          <li>Suco de 3 laranjas</li>
+          <li>20 Gr de salsinha picada</li>
+          <li>Sal a gosto</li>
+
+      </ul>
+
+
+
+
+
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Curso PHP FUNDAMENTAL</title>
+    </head>
+
+    <body>
+        <?php
+            $_data1 = new DateTime('2024-08-29');
+            $_data2 = new DateTime('2024-09-29');
+            $_intervalo = $_data1 ->diff($_data2)
+
+?>
+
+<pre>
+    <?php
+    
+         print_r($_intervalo);
+    
+    ?>
+</pre>
+
+<pre>
+    <?php
+
+        print_r($_intervalo->format('%d'))
+
+    ?>
+      </pre>
+         </body>
+             </html>
